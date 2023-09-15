@@ -49,9 +49,13 @@ h3 {
 }
 
 h4 {
-  font-weight: bold;
+  font: .9em/150% "Gill Sans","Gill Sans MT","Calibri",sans-serif;
+  color: #000;
+  font-weight: 500;
   letter-spacing: 1px;
   text-transform: uppercase;
+  text-align: center;
+  line-height: 1.8;
 }
 
 hr {
